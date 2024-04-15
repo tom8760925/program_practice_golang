@@ -1,0 +1,7 @@
+*
+!*.go
+!.gitignore
+!LICENSE
+!README.md
+!*/
+main*.go
