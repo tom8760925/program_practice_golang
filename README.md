@@ -1,1 +1,1 @@
-# puthon_web
+# 這裡存放golang的練習程式和blog文章中的程式
